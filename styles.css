@@ -38,11 +38,6 @@ header {
     display: flex;
 }
 
-section {
-    display: inline-block;
-    margin-left: 86px;
-}
-
 h1 {
     font-weight: 900;
     font-size: 100px;
@@ -79,6 +74,11 @@ p {
     font-size: 28px;
     line-height: 34px;
     color: #000000;
+}
+
+section {
+    display: inline-block;
+    margin-left: 86px;
 }
 
 @media screen and (max-width: 1060px) {
